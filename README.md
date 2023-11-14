@@ -15,11 +15,11 @@ You can divide up the work for your team however you would like, but you will ne
 
 ----
 ### Getting Started: 
-- Appoint a "main git human" who will own the central repository. 
-- Have the "main git human" create a new React project locally on their machine using `create-react-app`. 
-- Main git human: make a repository for this project on Github. Push your local React project up to Github. 
+- Appoint a git mananger who will own the central repository. 
+- Have the git manager create a new React project locally on their machine using `create-react-app`. 
+- Git manager; make a repository for this project on Github. Push your local React project up to Github. 
 - Have each team member fork this repository, and then clone to their local machine. 
-- Decide who will be building what, and then get to work! Make frequent commits,and then use `git push` to update your forked repo. Make pull requests, and experiment with having the team run `git pull upstream main` to see your teammates work as they progress! 
+- Decide who will be building what, and then get to work! Make frequent commits,and then use `git push` to update your forked repo. Make pull requests, and experiment with having the team run `git pull upstream main` to see your teammates work as they progress!
 
 ---
 ## Tips:
